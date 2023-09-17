@@ -1,0 +1,32 @@
+.encabezado{
+    background-color: rgb(23, 139, 139);
+    position: relative;
+    height: 80px;
+}
+
+.icono{
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    left: 15px;
+}
+
+.cuerpo{
+    padding: 30px 15px;
+    border: 2px solid rgb(190, 188, 188);
+}
+
+.iconos{
+    width: 10px;
+}
+.iconoss{
+    width: 20px;
+}
+.ubicacion{
+    margin-bottom: 10px;
+}
+
+.edit-profile{
+    margin-top: 10px;
+
+}
